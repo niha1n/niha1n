@@ -8,7 +8,7 @@
 
 ## Hi there 👋,
 
-#### I'm Nihal, Student at Mar Baselios College of Engineering and Technology. I am a tech enthusiast, Would love to see myself as a DevOps Engineer.
+#### I'm Nihal, B.Tech Student . I am a tech enthusiast, Would love to see myself as a DevOps Engineer.
 -------
   
 ## 🧐 About
